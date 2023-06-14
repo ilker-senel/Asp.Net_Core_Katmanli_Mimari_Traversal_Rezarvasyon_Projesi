@@ -1,0 +1,14 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll
