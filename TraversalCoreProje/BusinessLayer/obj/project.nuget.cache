@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9ZqkQvmeZxUJCZPgcUeyzhtu5KF0lgH4HBKlht+VGqKiaZUu5F7Hv55juVlHpRp9XkiOMte8ywFOf0iGhmDhg==",
+  "dgSpecHash": "UiOSlmRYl7ZSlHXe1QDpGYEUry+S4OclEHn5oZAtlQyVR8a3tLdA+VNzTYXSPxXeGsjfI9qcsKBen+YwJ8Bqaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DellPc\\Desktop\\Akay Yazılım\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\DellPc\\Desktop\\Documents\\GitHub\\Asp.Net_Core_Katmanli_Mimari_Traversal_Rezarvasyon_Projesi\\TraversalCoreProje\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DellPc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\DellPc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

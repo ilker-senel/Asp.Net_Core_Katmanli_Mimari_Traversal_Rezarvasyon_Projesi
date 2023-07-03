@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kg3A/4aYR/0T4jP4sMyKr3KevqcZqVVqaTjsof7lLTmca4g+LhWKVXLgYlmUtJ7mxA3Una6vpURVyrl7IMQ5rg==",
+  "dgSpecHash": "PqCUVuFlvsouSyqw9+GocDbdpp56uQ+ekT31NgodoVaPUoIixmSgvhT6yvJuH3fUAWGKYtxasVrY4JIyIeo7bA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DellPc\\Desktop\\Akay Yazılım\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
+  "projectFilePath": "C:\\Users\\DellPc\\Desktop\\Documents\\GitHub\\Asp.Net_Core_Katmanli_Mimari_Traversal_Rezarvasyon_Projesi\\TraversalCoreProje\\TraversalCoreProje\\TraversalCoreProje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DellPc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DellPc\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
