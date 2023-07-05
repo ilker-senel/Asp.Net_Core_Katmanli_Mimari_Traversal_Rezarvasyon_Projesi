@@ -1,0 +1,17 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\TraversalCoreProje\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
